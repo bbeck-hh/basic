@@ -52,7 +52,7 @@ public class CalculateNumbers {
             System.out.println("The Text is Palindrome");
             return true;
         }
-        System.out.println("The Text is not Palindrome");
+        System.out.println("The Text is not Palindrome Blubb");
         return false;
     }
 
